@@ -1,0 +1,4 @@
+*.oneme.ru
+*.max.ru
+call*-*.vkuser.net
+videostun*.okcdn.ru
