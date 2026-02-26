@@ -1,3 +1,4 @@
+quasar.yandex.ru
 tracker-api.vk-analytics.ru
 sdk-api.apptracer.ru
 firebaseinstallations.googleapis.com
