@@ -580,7 +580,6 @@ api.music.xiaomi.com
 api.smartadv.ru
 api.stravito.com
 api.video.xiaomi.com
-api.vk.ru
 api.vkplay.ru
 api.xmpush.global.xiaomi.com
 api.yapfiles.ru
