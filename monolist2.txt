@@ -40,3 +40,4 @@ api.durevpn.com
 queuev4.vk.ru
 vkvd599.okcdn.ru
 feature-flagging.deepl.com
+api.oneme.ru
